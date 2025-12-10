@@ -2,6 +2,10 @@
 
 A sophisticated interactive card system that simulates realistic physics for dragging, throwing, and flipping interactions. Built with vanilla JavaScript and GSAP for high-performance animations, this component provides an engaging user experience with organic motion and intuitive interactions.
 
+## Live Demo
+
+[View Live](https://thisislefa.github.io/Aether)
+
 ## Features
 
 - **Realistic Physics Engine**: Implements velocity-based throwing with friction, bounce, and spring mechanics
@@ -13,9 +17,6 @@ A sophisticated interactive card system that simulates realistic physics for dra
 - **Performance Optimized**: Uses GSAP animation library and will-change properties for smooth 60fps
 - **Responsive Design**: Adapts to different screen sizes with proper touch targets
 
-## Live Demo
-
-https://thisislefa.github.io/physics-cards
 
 ## Technologies Used
 
@@ -29,6 +30,7 @@ https://thisislefa.github.io/physics-cards
 1. Clone the repository:
 ```bash
 git clone https://github.com/thisislefa/physics-cards.git
+
 
 
 
